@@ -8,7 +8,7 @@
 
 *A modern, professional courier management solution with sleek GUI* ✨
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
 
 </div>
 
